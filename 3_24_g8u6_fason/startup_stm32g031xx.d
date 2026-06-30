@@ -1,0 +1,1 @@
+3_24_g8u6_fason\startup_stm32g031xx.o: startup_stm32g031xx.s
